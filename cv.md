@@ -2,6 +2,7 @@
 ## Contacts
 * **phone:** 0508742166;
 * **email:** snedzveckij@gmail.com.
+
 ## Summary
 I want to become a professional programmer.
 ## Skills
